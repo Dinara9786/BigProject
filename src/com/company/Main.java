@@ -3,6 +3,8 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
+	    
+	    Dinara
 
         SolarSystem FactorX = new SolarSystem();
         FactorX.Sun = 1;
